@@ -4,3 +4,5 @@
 4. showing last seen
 5. hiding dp
 6. hiding last seen
+7. adding vdo call
+8. adding audio call
