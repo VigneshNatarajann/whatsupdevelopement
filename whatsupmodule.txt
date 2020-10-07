@@ -1,0 +1,4 @@
+1. Initialing the whatsup module
+2. Creating text box
+3. attached file like phto, vdo and gips
+4. showing last seen
