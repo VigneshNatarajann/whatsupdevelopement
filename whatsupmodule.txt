@@ -2,3 +2,5 @@
 2. Creating text box
 3. attached file like phto, vdo and gips
 4. showing last seen
+5. hiding dp
+6. hiding last seen
